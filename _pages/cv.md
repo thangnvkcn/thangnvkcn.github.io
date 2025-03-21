@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Nguyen Anh Tu's CV"
+title: "Nguyen Van Thang's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:

@@ -17,7 +17,7 @@ I am working with PhD, Associate Professor [Ngo Xuan Bach](https://sites.google.
 Currently, I am an AI Engineer at  [VNPT AI](https://vnptai.io/), VNPT Group, Hanoi, Vietnam
 
 
-**Contact**: thangmta30{AT}gmail.com
+**Contact**: thangmta30@gmail.com
 
 **Research Interests**: Speech Synthesis, Voice Cloning, Voice Conversion, Natural Language Processing, Deep Learning
 
