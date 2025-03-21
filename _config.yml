@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nguyen Van Thang"
   avatar           : "avatar.jpg"
-  bio              : "Applied Scientist, NLP Researcher"
+  bio              : "AI Engineer"
   location         : "Hanoi, Vietnam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"PTIT.TiJus"
+  facebook         :
   foursquare       :
   github           : "thangnvkcn"
   google_plus      :
